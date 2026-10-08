@@ -1,0 +1,76 @@
+detector,model,test_set,predicted_seizure_rate_mean,predicted_seizure_rate_std
+Trained on healthy (A) vs seizure,Logistic regression,Z,0.0,0.0
+Trained on healthy (A) vs seizure,Logistic regression,O,0.13242424242424242,0.04789988027920495
+Trained on healthy (A) vs seizure,Logistic regression,N,0.16484848484848486,0.04919368217030426
+Trained on healthy (A) vs seizure,Logistic regression,F,0.3178787878787878,0.04335981390517773
+Trained on healthy (A) vs seizure,Logistic regression,S,0.9954545454545455,0.008131156281817412
+Trained on healthy (A) vs seizure,SVM (RBF kernel),Z,0.0015151515151515152,0.0021427478217774165
+Trained on healthy (A) vs seizure,SVM (RBF kernel),O,0.1427272727272727,0.06440659412196227
+Trained on healthy (A) vs seizure,SVM (RBF kernel),N,0.23454545454545453,0.06419237615967174
+Trained on healthy (A) vs seizure,SVM (RBF kernel),F,0.38939393939393946,0.04970066505108097
+Trained on healthy (A) vs seizure,SVM (RBF kernel),S,0.9960606060606062,0.0032637362467481655
+Trained on healthy (A) vs seizure,Random forest,Z,0.0,0.0
+Trained on healthy (A) vs seizure,Random forest,O,0.20939393939393944,0.06284062368649457
+Trained on healthy (A) vs seizure,Random forest,N,0.10666666666666666,0.05413651417597742
+Trained on healthy (A) vs seizure,Random forest,F,0.22757575757575757,0.06621333470907959
+Trained on healthy (A) vs seizure,Random forest,S,1.0,0.0
+Trained on healthy (A) vs seizure,Gradient boosting,Z,0.0,0.0
+Trained on healthy (A) vs seizure,Gradient boosting,O,0.24030303030303035,0.05620864973353168
+Trained on healthy (A) vs seizure,Gradient boosting,N,0.12000000000000001,0.051980076708828045
+Trained on healthy (A) vs seizure,Gradient boosting,F,0.24363636363636362,0.057968358425199484
+Trained on healthy (A) vs seizure,Gradient boosting,S,0.9987878787878789,0.002010075630518413
+Trained on healthy (A) vs seizure,Neural network (MLP),Z,0.0015151515151515152,0.0021427478217774165
+Trained on healthy (A) vs seizure,Neural network (MLP),O,0.14909090909090908,0.06562267967825049
+Trained on healthy (A) vs seizure,Neural network (MLP),N,0.30757575757575756,0.07935113349859269
+Trained on healthy (A) vs seizure,Neural network (MLP),F,0.4339393939393939,0.06745811202420066
+Trained on healthy (A) vs seizure,Neural network (MLP),S,0.9942424242424243,0.007508794965675071
+Trained on all healthy (A+B) vs seizure,Logistic regression,Z,0.0,0.0
+Trained on all healthy (A+B) vs seizure,Logistic regression,O,0.004242424242424243,0.006735185082088747
+Trained on all healthy (A+B) vs seizure,Logistic regression,N,0.21303030303030301,0.05195533859429768
+Trained on all healthy (A+B) vs seizure,Logistic regression,F,0.3336363636363636,0.04734842424238546
+Trained on all healthy (A+B) vs seizure,Logistic regression,S,0.9896969696969697,0.015873698004495507
+Trained on all healthy (A+B) vs seizure,SVM (RBF kernel),Z,0.0006060606060606061,0.00154515742836145
+Trained on all healthy (A+B) vs seizure,SVM (RBF kernel),O,0.003636363636363637,0.00475284458829034
+Trained on all healthy (A+B) vs seizure,SVM (RBF kernel),N,0.14515151515151514,0.04834639321990563
+Trained on all healthy (A+B) vs seizure,SVM (RBF kernel),F,0.2921212121212121,0.05911343781884257
+Trained on all healthy (A+B) vs seizure,SVM (RBF kernel),S,0.9863636363636364,0.01253095341099112
+Trained on all healthy (A+B) vs seizure,Random forest,Z,0.0,0.0
+Trained on all healthy (A+B) vs seizure,Random forest,O,0.00393939393939394,0.006399609721800871
+Trained on all healthy (A+B) vs seizure,Random forest,N,0.05393939393939395,0.031222416660342443
+Trained on all healthy (A+B) vs seizure,Random forest,F,0.1596969696969697,0.04764037302889657
+Trained on all healthy (A+B) vs seizure,Random forest,S,0.9869696969696969,0.016669421259969768
+Trained on all healthy (A+B) vs seizure,Gradient boosting,Z,0.0,0.0
+Trained on all healthy (A+B) vs seizure,Gradient boosting,O,0.010303030303030305,0.01247219128924647
+Trained on all healthy (A+B) vs seizure,Gradient boosting,N,0.05545454545454546,0.035216762850593344
+Trained on all healthy (A+B) vs seizure,Gradient boosting,F,0.16363636363636366,0.04976528932939672
+Trained on all healthy (A+B) vs seizure,Gradient boosting,S,0.9903030303030302,0.009800582805331064
+Trained on all healthy (A+B) vs seizure,Neural network (MLP),Z,0.0,0.0
+Trained on all healthy (A+B) vs seizure,Neural network (MLP),O,0.005151515151515152,0.009070684573997434
+Trained on all healthy (A+B) vs seizure,Neural network (MLP),N,0.1524242424242424,0.04208304353062804
+Trained on all healthy (A+B) vs seizure,Neural network (MLP),F,0.31,0.05856878887515969
+Trained on all healthy (A+B) vs seizure,Neural network (MLP),S,0.9878787878787879,0.014999234752441915
+Trained on all non-seizure (A-D) vs seizure,Logistic regression,Z,0.0,0.0
+Trained on all non-seizure (A-D) vs seizure,Logistic regression,O,0.0036363636363636364,0.004132782332419956
+Trained on all non-seizure (A-D) vs seizure,Logistic regression,N,0.014545454545454547,0.01908369271979853
+Trained on all non-seizure (A-D) vs seizure,Logistic regression,F,0.06515151515151515,0.05141701883158929
+Trained on all non-seizure (A-D) vs seizure,Logistic regression,S,0.9721212121212122,0.02575935822709503
+Trained on all non-seizure (A-D) vs seizure,SVM (RBF kernel),Z,0.0,0.0
+Trained on all non-seizure (A-D) vs seizure,SVM (RBF kernel),O,0.0024242424242424247,0.002267671143499358
+Trained on all non-seizure (A-D) vs seizure,SVM (RBF kernel),N,0.006666666666666667,0.010992943725586091
+Trained on all non-seizure (A-D) vs seizure,SVM (RBF kernel),F,0.029696969696969697,0.02078796713471818
+Trained on all non-seizure (A-D) vs seizure,SVM (RBF kernel),S,0.9512121212121211,0.02632006151588905
+Trained on all non-seizure (A-D) vs seizure,Random forest,Z,0.0,0.0
+Trained on all non-seizure (A-D) vs seizure,Random forest,O,0.0012121212121212121,0.0020100756305184244
+Trained on all non-seizure (A-D) vs seizure,Random forest,N,0.011515151515151515,0.01824735662706012
+Trained on all non-seizure (A-D) vs seizure,Random forest,F,0.026060606060606062,0.026267676282144648
+Trained on all non-seizure (A-D) vs seizure,Random forest,S,0.9463636363636364,0.029884995359852447
+Trained on all non-seizure (A-D) vs seizure,Gradient boosting,Z,0.0,0.0
+Trained on all non-seizure (A-D) vs seizure,Gradient boosting,O,0.004242424242424243,0.005860327153276884
+Trained on all non-seizure (A-D) vs seizure,Gradient boosting,N,0.012121212121212121,0.018232253280595544
+Trained on all non-seizure (A-D) vs seizure,Gradient boosting,F,0.03606060606060606,0.023733289999031848
+Trained on all non-seizure (A-D) vs seizure,Gradient boosting,S,0.9654545454545455,0.023165472549838056
+Trained on all non-seizure (A-D) vs seizure,Neural network (MLP),Z,0.0,0.0
+Trained on all non-seizure (A-D) vs seizure,Neural network (MLP),O,0.00030303030303030303,0.0011338355717496792
+Trained on all non-seizure (A-D) vs seizure,Neural network (MLP),N,0.00787878787878788,0.012361259426891598
+Trained on all non-seizure (A-D) vs seizure,Neural network (MLP),F,0.034242424242424234,0.029869627952367528
+Trained on all non-seizure (A-D) vs seizure,Neural network (MLP),S,0.9387878787878788,0.03400966750690473

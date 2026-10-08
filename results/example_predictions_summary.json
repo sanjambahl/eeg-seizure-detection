@@ -1,0 +1,34 @@
+{
+ "train_recordings": 400,
+ "test_recordings": 100,
+ "test_windows": 1100,
+ "window_balanced_accuracy": 0.9927272727272727,
+ "recordings_correct": 100,
+ "per_group": [
+  {
+   "group": "F",
+   "n": 17,
+   "correct": 17
+  },
+  {
+   "group": "N",
+   "n": 19,
+   "correct": 19
+  },
+  {
+   "group": "O",
+   "n": 21,
+   "correct": 21
+  },
+  {
+   "group": "S",
+   "n": 25,
+   "correct": 25
+  },
+  {
+   "group": "Z",
+   "n": 18,
+   "correct": 18
+  }
+ ]
+}

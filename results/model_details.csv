@@ -1,0 +1,6 @@
+model,settings,what_it_learned,learned_numbers,training_seconds,prediction_ms_per_window
+Logistic regression,features rescaled; groups balanced,19 numbers (one weight per feature + 1),19,0.02,0.0002
+SVM (RBF kernel),curved (RBF) boundary; C = 10; groups balanced,kept 215 training windows as 'support vectors',4086,0.07,0.0099
+Random forest,300 trees; groups balanced,"300 trees, 37,904 yes/no nodes in total",37904,1.71,0.0249
+Gradient boosting,up to 100 trees added one at a time; learning rate 0.1,"100 trees, 6,084 yes/no nodes in total",6084,0.44,0.0027
+Neural network (MLP),"2 hidden layers (64, 32); stops early when it stops improving","3,329 connection strengths (layers 18 → 64 → 32 → 1)",3329,0.63,0.0009
